@@ -23,4 +23,4 @@ On my website you can see
   <li>Learning Reflection</li>
 </ol>
 
-Link: 
+Link: https://slai090.github.io/stats220/
