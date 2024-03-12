@@ -9,7 +9,18 @@ For Project 1 I will:
   <li>Create website</li>
 </ul>
 
+<em>* Also full description for each part of Project</em>
+
 # Website
 
-Here is the website that I created, feel free to take look
+Here is the website that I created, feel free to take a look.
+
+On my website you can see
+<ol>
+  <li>Project Requirements</li>
+  <li>My meme</li>
+  <li>Creativity</li>
+  <li>Learning Reflection</li>
+</ol>
+
 Link: 
