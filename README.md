@@ -9,7 +9,7 @@ For Project 1 I will:
   <li>Create website</li>
 </ul>
 
-<em>* Also full description for each part of Project</em>
+<em>* Also full description for each part of the Project</em>
 
 # Website
 
